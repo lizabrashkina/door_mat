@@ -1,3 +1,7 @@
+# for the code to run a user needs to enter two numbers with space in between
+# the second number must be 3 times larger
+# for instance: 9 27
+
 n_m = input().split(" ")
 n = int(n_m[0])
 m = int(n_m[1])
